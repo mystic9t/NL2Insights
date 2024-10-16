@@ -1,0 +1,1 @@
+"""run project in a streamlit app"""
